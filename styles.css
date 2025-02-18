@@ -40,9 +40,10 @@ h1{
 *{
    background-color: rgb(237, 241, 241);
 }
-.header h3{
-    cursor:poniter;
+.header-row h3{
+    cursor:pointer;
     margin:0px;
     display:inline-block;
     padding:20px;
+    justify-content:space-between;
 }
